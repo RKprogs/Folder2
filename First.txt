@@ -1,3 +1,6 @@
 This is a file in a new folder "push"ed from pc to github
 
 Use git init to initialise the .git
+
+git remote add origin url
+git branch -M main (since the master branch is OG)
