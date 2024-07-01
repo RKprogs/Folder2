@@ -1,0 +1,3 @@
+This is a file in a new folder "push"ed from pc to github
+
+Use git init to initialise the .git
